@@ -8,9 +8,9 @@ To run the demo code, you should first prepare the anaconda environment, as list
 
 After installing all the required python package, you can run the code to see the point visibility estimation process and results:
 
-'''
+"""
 python demo.py
-'''
+"""
 
 ## 2.Training and Evaluation (coming soon)
 The training and evaluation code will be released after the demo is released.
